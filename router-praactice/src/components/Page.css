@@ -1,0 +1,13 @@
+/* 미리 제공 */
+.containter {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 1000px;
+  transform: translateX(-50%);
+}
+
+img {
+  width: 100%;
+  vertical-align: middle;
+}
